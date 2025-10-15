@@ -33,7 +33,7 @@ Arsitektur aplikasi dirancang dengan prinsip **User Centered Design (UCD)** dan 
 [Klik di sini untuk melihat desain]()  
 
 📱 Figjam:  
-[YouTube – Eco Points Overview]()
+Link FigJam: [EcoPoints Board](https://www.figma.com/board/JdrGlcc9Vo0fl4jm7xcSbk/EcoPoints?node-id=0-1&t=hgyGHmPzrdtqY0j-1)
 
 ---
 
