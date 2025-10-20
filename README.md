@@ -30,10 +30,13 @@ Arsitektur aplikasi dirancang dengan prinsip **User Centered Design (UCD)** dan 
 
 ## 🎨 Desain & Prototype
 📱 Figma Prototype:  
-[Klik di sini untuk melihat desain]()  
+[Klik di sini untuk melihat desain](https://www.figma.com/design/pRMa4gRSQ83HpYYdQ8Nc6d/EcoPoints-Project?node-id=0-1&t=udsUMnHLyEtbMhbt-1)  
 
 📱 Figjam:  
 [Klik Link Ini](https://www.figma.com/board/JdrGlcc9Vo0fl4jm7xcSbk/EcoPoints?node-id=0-1&t=hgyGHmPzrdtqY0j-1)
+
+🎨 User Persona:
+[Klik Link Ini](https://www.canva.com/design/DAG1RNwZsc0/wM-auPYSKlhJr-BfsKc1kA/edit?utm_content=DAG1RNwZsc0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
