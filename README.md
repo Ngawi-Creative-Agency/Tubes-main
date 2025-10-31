@@ -38,8 +38,8 @@ Arsitektur aplikasi dirancang dengan prinsip **User Centered Design (UCD)** dan 
 🎨 User Persona:
 [Klik Link Ini](https://www.canva.com/design/DAG1RNwZsc0/wM-auPYSKlhJr-BfsKc1kA/edit?utm_content=DAG1RNwZsc0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-Docs:
-[Klik Link Ini] (https://docs.google.com/document/d/1Y1i9r4DMYj1U4QhTbHAqp2ddqBURCR6xYQyAEXjG8bQ/edit?usp=sharing) 
+📄Docs Collaboration:
+[Klik Link Ini](https://docs.google.com/document/d/1Y1i9r4DMYj1U4QhTbHAqp2ddqBURCR6xYQyAEXjG8bQ/edit?usp=sharing) 
 
 ---
 
