@@ -73,6 +73,10 @@ Mahasiswa Program Studi Teknik Informatika – ITERA
 📘 Proposal Resmi UTS Desain Interaksi:  
 [Klik Link Ini](https://docs.google.com/document/d/12LmkA1z2vVhcYBC97tvLG9ObRlMYb2gBnqu2ClQ394Q/edit?usp=sharing)
 
+
+📘 Proposal Resmi Tugas Akhir Desain Interaksi:  
+[Klik Link Ini](https://docs.google.com/document/d/1Y1i9r4DMYj1U4QhTbHAqp2ddqBURCR6xYQyAEXjG8bQ/edit?tab=t.0#heading=h.s4cg2n4wmuey)
+
 ---
 
 ## 💚 Kontribusi untuk Lingkungan
